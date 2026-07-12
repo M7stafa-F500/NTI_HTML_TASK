@@ -1,1 +1,37 @@
 
+body{
+     text-align: center;
+     background-color: azure;
+
+}
+.main{
+ color: aqua
+}
+.sub{
+color: blue;
+}
+
+
+
+.container{
+    color:gold;
+   
+
+}
+.form{
+    color:purple;
+   
+    
+}
+
+.bt{
+    color: white;
+     border-radius: 10px;
+     cursor: pointer;
+     background-color: brown;
+}
+
+ .bt:hover{
+   background-color: green;
+   
+ }
