@@ -1,0 +1,27 @@
+.navbar {
+            background-color: black;
+            padding: 15px;
+            text-align: right; 
+        }
+        .navbar a, .navbar span {
+            color: white;
+            text-decoration: none;
+            margin-left: 15px;
+            
+        }
+
+        .btn:hover{
+             background-color: green;
+
+        }
+
+        .login{
+
+            
+            
+            align-items: center;
+
+            display: flex;
+            justify-content: center;
+
+        }
